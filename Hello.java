@@ -1,6 +1,7 @@
 public class Hello {
 	public static void main(String args[]) {
-		int i = 2 ;
-		System.out.println("i="+i) ;
+		for (int x =0 ; x < 100  ; x ++ ){
+			System.out.println("hello world!") ;
+		}
 	}
 }
